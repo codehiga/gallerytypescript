@@ -29,6 +29,7 @@ export const PhotoList = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(186px, 1fr));
   gap: 10px;
+  overflow: auto;
 `
 
 export const UploadForm = styled.form`
