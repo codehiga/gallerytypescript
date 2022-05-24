@@ -1,5 +1,3 @@
-{{Image}}
-
 **`Objetivo com a criação do projeto:`**
 
 - Estudar e aprimorar meus conhecimentos em typescript, desenvolvendo com um serviço externo (firebase).
