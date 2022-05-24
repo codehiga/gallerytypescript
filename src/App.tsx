@@ -97,7 +97,7 @@ export const App = () => {
           </C.LoadingScreen> 
         }
         
-        { photos.length === 0 && <h1>Sem fotos :(</h1> }
+        { photos.length === 0 && !loading && <h1>Sem fotos :(</h1> }
 
         { !loading && photos.length > 0 &&
 
